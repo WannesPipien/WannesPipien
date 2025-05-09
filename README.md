@@ -1,4 +1,7 @@
-## Hi there 👋
+My name is Wannes. I'm a 21 year old student at PXL who's on his first year of learning programming.
+Currently i'm working on various small school projects.
+You can reach me on my PXL email 12400509@student.pxl.be
+I like reading and playing TTRPG's and TCG's.
 
 <!--
 **WannesPipien/WannesPipien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
